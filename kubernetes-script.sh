@@ -1,12 +1,12 @@
 #!/bin/bash
 
-----------------------------------------------------
+#----------------------------------------------------
 
 #Author: Yatin Gambhir
 #Topic: Installation of Kubernetes in an Ubuntu Machine
 #Date: 06 Feb 2024
 
-----------------------------------------------------
+#----------------------------------------------------
 
 #update all the packages 
 sudo apt update
